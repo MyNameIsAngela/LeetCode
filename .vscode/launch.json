@@ -26,12 +26,12 @@
             "type": "java",
             "name": "Debug (Launch)",
             "request": "launch",
-            "mainClass": "${workspaceFolder}/62.不同路径.java"
+            "mainClass": "${workspaceFolder}/56.合并区间.js"
         },
         {
             "type": "node",
             "request": "launch",
-            "name": "Launch Program",
+            "name": "LeetCode Debug",
             "skipFiles": [
                 "<node_internals>/**"
             ],
